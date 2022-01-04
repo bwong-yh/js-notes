@@ -1,3 +1,5 @@
-# My JavaScript Notes
+# js-notes
 
-A repo for organizing my JavaScript notes.
+a repo for organizing my js notes.
+
+© Billy W. 2022
